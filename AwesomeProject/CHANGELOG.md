@@ -5,6 +5,7 @@ All notable changes to this project will be documented in this file. See [standa
 ### [0.0.2](https://github.com/lxjjjjjj/component-repository/compare/v0.0.1...v0.0.2) (2023-04-24)
 
 ### 0.0.1 (2023-04-24)
+测试
 
 
 ### Features
