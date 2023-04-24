@@ -9,7 +9,8 @@
     "start": "react-native start",
     "test": "jest",
     "commit": "sh ./scripts/commit.sh",
-    "release": "standard-version"
+    "release": "sh ./scripts/publish.sh",
+    "pre-release": "sh ./scripts/pre-release"
   },
   "dependencies": {
     "react": "18.2.0",
