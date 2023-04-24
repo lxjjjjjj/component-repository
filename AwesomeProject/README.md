@@ -23,5 +23,8 @@ cz-customizable将首先在您附近的项目根目录中查找名为.cz-config.
   }
 }
 ```
+## 首次发布
+npm run release -- --first-release
+
 
     
