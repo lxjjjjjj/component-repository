@@ -8,7 +8,8 @@
     "lint": "eslint .",
     "start": "react-native start",
     "test": "jest",
-    "commit": "sh ./scripts/commit.sh"
+    "commit": "sh ./scripts/commit.sh",
+    "release": "standard-version"
   },
   "dependencies": {
     "react": "18.2.0",
